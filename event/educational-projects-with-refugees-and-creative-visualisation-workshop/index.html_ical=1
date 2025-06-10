@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EdLab MMU - ECPv5.3.1.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EdLab MMU
+X-ORIGINAL-URL:https://mcrblogs.co.uk/edlab
+X-WR-CALDESC:Events for EdLab MMU
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20150329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20151025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20151021T120000
+DTEND;TZID=Europe/London:20151021T143000
+DTSTAMP:20210125T140312
+CREATED:20151007T074257Z
+LAST-MODIFIED:20151007T074957Z
+UID:473-1445428800-1445437800@mcrblogs.co.uk
+SUMMARY:Educational projects with Refugees and Creative Visualisation workshop
+DESCRIPTION:2nd Floor Resource Centre MMU Brooks Building\nM15 6GX Manchester\nWednesday\, 21 October 2015 from 12:00 to 14:00\nOpen to all – Please reserve tickets here. \n \nSara Domville from Community Arts North West will lead this session on Creative Visualisation of Projects. \nSara manages CAN’s digital media programme\, developing new and exciting models for working with young people\, artists and communities through video\, photography\, sound\, music\, animation\, digital art and social media.She also worked on the Blaze project which engaged young people from across the North West in an ambitious programme of new work linked to the Olympic and Paralympic Games. \nWe will explore ideas around using low cost technology\, crowdsourcing and using creative workshops to creatively visualise the outcomes of community projects. \nOpen to all – Please reserve tickets here.
+URL:https://mcrblogs.co.uk/edlab/event/educational-projects-with-refugees-and-creative-visualisation-workshop/
+CATEGORIES:Creative Space
+ATTACH;FMTTYPE=image/jpeg:https://mcrblogs.co.uk/edlab/wp-content/uploads/sites/64/2015/09/artists_do_it.jpg
+END:VEVENT
+END:VCALENDAR

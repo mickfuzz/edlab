@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EdLab MMU - ECPv5.3.1.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EdLab MMU
+X-ORIGINAL-URL:https://mcrblogs.co.uk/edlab
+X-WR-CALDESC:Events for EdLab MMU
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20150329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20151025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20151028T120000
+DTEND;TZID=Europe/London:20151028T143000
+DTSTAMP:20210125T140252
+CREATED:20151007T075735Z
+LAST-MODIFIED:20151007T075848Z
+UID:476-1446033600-1446042600@mcrblogs.co.uk
+SUMMARY:Design Fiction Workshop
+DESCRIPTION:2nd Floor Resource Centre MMU Brooks Building\nM15 6GX Manchester\nWednesday\, October 28\, 2015 from 12:00 PM to 2:30 PMOpen to all – Please reserve tickets here.  \n\n\n\n\nDesign fiction is part science-fiction and part science-fact and it allows you to develop new ideas and then prototype them in storyworlds. We’ll be creating design fictions to explore how MMU can support the Manchester Hive in providing young people in Manchester with exciting opportunities to develop the digital skills they’ll need to survive and thrive in the future. \nWhat if we gave every young person in Manchester a robot with a virus and they had to learn to re-programme it in order to save the robot’s life? Would that work? Would it be too expensive? Would the young person be traumatised if they failed? Would it lead to back-of-the-playground robot wars competitions? These are the kinds of scenarios you can play out through design fictions but in the end we think through bigger questions such as what’s it like to be young in a changing world\, what do we owe children\, how might we build stronger communities?\nOpen to all – Please reserve tickets here.  \nIf you’d like more information please contact… \nj.duggan@mmu.ac.uk |+44(0)161 247 2083 | @dugganjr
+URL:https://mcrblogs.co.uk/edlab/event/design-fiction-workshop/
+CATEGORIES:Creative Space
+ATTACH;FMTTYPE=image/jpeg:https://mcrblogs.co.uk/edlab/wp-content/uploads/sites/64/2015/09/tumblr_n8j5d5loO81qbgo38o1_1280.jpg
+END:VEVENT
+END:VCALENDAR

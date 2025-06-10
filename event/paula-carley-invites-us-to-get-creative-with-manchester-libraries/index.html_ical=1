@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EdLab MMU - ECPv5.3.1.1//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:EdLab MMU
+X-ORIGINAL-URL:https://mcrblogs.co.uk/edlab
+X-WR-CALDESC:Events for EdLab MMU
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20150329T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20151025T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20151014T120000
+DTEND;TZID=Europe/London:20151014T140000
+DTSTAMP:20210125T140530
+CREATED:20151007T074031Z
+LAST-MODIFIED:20171009T073527Z
+UID:472-1444824000-1444831200@mcrblogs.co.uk
+SUMMARY:Paula Carley invites us to Get Creative with Manchester Libraries
+DESCRIPTION:2nd Floor Resource Centre MMU Brooks Building\nM15 6GX Manchester\nWednesday\, 14 October 2015 from 12:00 to 14:00 (BST) \nOpen to all – Please reserve tickets here. \nManchester Libraries have an exciting and diverse range of activities that they run for with children\, young people and families. They have an open challenge to us to attend and improve some of the activities that they deliver. Some of the events and projects we can get involved with are detailed below.\nThis session is an open way of exploring some of the possibilities we could take to solve the challenges below and lets Paula explain some of the fantastic resources that are available.\nReading Hack is a programme about to be launched for those aged 13 -24. Young people engaging with libraries. To volunteer on activities such as World Book Night. To help shape and create a digital offer for children and young people in libraries. Could you get involved?\nThe library want to get more children\, young people and families into the library to use there fabulous facilities. For example\, they have an fantastic music section with mixing desks and electronic drum kits. Can you come up with a creative idea to engage these groups?\nBranch libraries have funding to introduce some digital resources\, but they don’t know how to use them. Can you spark a code club\, or a tech teaching workshop? \nOpen to all – Please reserve tickets here. 
+URL:https://mcrblogs.co.uk/edlab/event/paula-carley-invites-us-to-get-creative-with-manchester-libraries/
+CATEGORIES:Creative Space
+ATTACH;FMTTYPE=image/jpeg:https://mcrblogs.co.uk/edlab/wp-content/uploads/sites/64/2015/09/IMG_2048.jpg
+END:VEVENT
+END:VCALENDAR
